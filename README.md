@@ -16,11 +16,11 @@
 
 | 프로젝트                                            | 설명                                                             | 엔진    |
 |-------------------------------------------------|----------------------------------------------------------------|-------|
-| [ProjectVP](https://github.com/expx2/ProjectVP) | [발로란트]의 '독사의 구덩이' 모작 | Unity |
+| [ProjectVP](https://github.com/expx2/ProjectVP) | <발로란트>의 '독사의 구덩이' 모작 | Unity |
 
 ## 🎮 참여 프로젝트
 
-#### 미공개프로젝트
+#### 미공개 프로젝트
 `Unity 6.3` `UniTask` `ZLinq` `ZString` `uPools` `Spine`
 
 - 전투 콘텐츠 개발
@@ -47,21 +47,21 @@
 
 - 라이브 서비스
     - 핫픽스 솔루션 InjectFix
-    - Profiler 이용한 최적화
-        - 스탯 빌드 병목 개선 (300ms -> 45ms)
+    - Profiler 활용한 최적화
+        - 스탯 빌드 병목 개선: 300ms -> 45ms
         - 로딩 속도 개선
 
 - 에디터 툴 개발
-    - 맵툴 / 테이블 기반 데이터 스크립트 자동 생성 / 실시간 대미지 및 스탯 확인
+    - 맵 툴 / 테이블 기반 데이터 스크립트 자동 생성 / 실시간 대미지 및 스탯 확인
 
 - Shader Graph
-    - Silhoutte / Planar Reflection / Skill Indicator
+    - Silhouette / Planar Reflection / Skill Indicator
 
 #### 데빌 테일즈 [🌐](https://play.google.com/store/apps/details?id=studio.gameberry.deviltales)
 `Unity 2021` `PlayFab` `UniTask` `A* Pathfinding Project` `Curved World` `ZString` `DOTween` `Spine`
 
 - 프로토타이핑
-    - 10명 편대 전투 (세븐나이츠키우기 레퍼런스)
+    - 10명 편대 전투 (<세븐나이츠키우기> 레퍼런스)
 
 - 아웃게임 콘텐츠 개발
     - 장비 소환 / 수집형 캐릭터 성장 / 퀘스트 / 이벤트 패스 / 상품 등
@@ -74,13 +74,13 @@
 
 #### 햄스터 가방 타이쿤 [🌐](https://play.google.com/store/apps/details?id=com.maf.bagtory)
 
-- 자사 게임 [고양이 가구점](https://play.google.com/store/apps/details?id=com.mafgames.idle.cat.neko.manager.tycoon) 리팩토링
-    - Spine 애니메이션 ->  Unity Animation 변경
+- 자사 게임 <[고양이 가구점](https://play.google.com/store/apps/details?id=com.mafgames.idle.cat.neko.manager.tycoon)> 리팩토링
+    - 게임 애니메이션 시스템을 Spine에서 Unity Animation으로 변경
     - 일부 UI 로드 비동기로 변경하여 끊김 개선
     - UI Canvas 구조 최적화로 UI 드로우콜 30% 감소
 
 - 콘텐츠 개발
-    - 미니 게임 / 상품 등
+    - 미니게임 / 상품 등
 
 #### 저스트 슈팅 [🌐](https://www.youtube.com/watch?v=GGDkXMMiVxI)
 
@@ -113,7 +113,7 @@
 - URP 2D Light
     - 월드 시간에 따른 조명 변화 (낮 -> 밤)
 - Isometric 타일맵
-    - A* 길찾기
+    - A* 길 찾기
         - 벽을 타고 이동해 생기는 어색함을 줄이기 위한 갓길 시스템
 
 <br>
@@ -129,7 +129,7 @@
     - 채집 / 농사 / 낚시 / 제작 / 연구 등
 - Isometric 타일맵
     - 건설
-    - A* 길찾기
+    - A* 길 찾기
 
 ## 📧 Contact
 - expx2@naver.com
