@@ -16,7 +16,7 @@
 
 | 프로젝트                                            | 설명                                                             | 엔진    |
 |-------------------------------------------------|----------------------------------------------------------------|-------|
-| [ProjectVP](https://github.com/expx2/ProjectVP) | [발로란트]의 '독사의 구덩이' 모작<br>`Recast` `FloodFill` `MarchingSquares` | Unity |
+| [ProjectVP](https://github.com/expx2/ProjectVP) | [발로란트]의 '독사의 구덩이' 모작 | Unity |
 
 ## 🎮 참여 프로젝트
 
