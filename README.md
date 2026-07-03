@@ -24,7 +24,7 @@
 `Unity 6.3` `UniTask` `ZLinq` `ZString` `uPools` `Spine`
 
 - 전투 콘텐츠 개발
-    - 데이터 기반 전투 시스템
+    - 데이터 기반 스킬 시스템
     - 수학 기반 충돌 판정 (원, 부채꼴, 도넛, OBB)
     - <Source, Value> 상태 제어
 - WFC 알고리즘 맵 자동 생성
