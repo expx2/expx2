@@ -82,7 +82,7 @@
 #### 햄스터 가방 타이쿤 [🌐](https://play.google.com/store/apps/details?id=com.maf.bagtory)
 
 - 자사 게임 <[고양이 가구점](https://play.google.com/store/apps/details?id=com.mafgames.idle.cat.neko.manager.tycoon)> 리팩토링
-    - 게임 애니메이션 시스템을 Spine에서 Unity Animation으로 변경
+    - Spine 기반 구조를  Unity Animation 기반 구조로 전환
     - 일부 UI 로드 비동기로 변경하여 끊김 개선
     - UI Canvas 구조 최적화로 UI 드로우콜 30% 감소
 
