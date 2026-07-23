@@ -24,30 +24,30 @@
 `Unity 6.3` `UniTask` `ZLinq` `ZString` `uPools` `Spine`
 
 - 전투 콘텐츠 개발
-    - 데이터 기반 스킬 시스템
+    - Data-Driven 스킬 시스템
     - 수학 기반 충돌 판정 (원, 부채꼴, 도넛, OBB)
     - <Source, Value> 형태의 우선순위 상태 제어 시스템
-- WFC 알고리즘 맵 자동 생성
+- WFC 알고리즘 맵 자동 생성 시스템 및 자동화 툴
 - 좌표 기반 월드 스트리밍
 
 #### 애쉬앤베일 [🌐](https://play.google.com/store/apps/details?id=studio.gameberry.anv&pcampaignid=web_share)
 `Unity 2022` `뒤끝` `UniRx` `A* Pathfinding Project` `DOTween` `Spine` `InjectFix`
 
 - 전투 콘텐츠 개발
-    - 스플래시 대미지 / 오브젝트 스킬 / 상태 이상 등 데이터 기반 전투 시스템 확장
+    - 스플래시 대미지 / 오브젝트 스킬 / 상태 이상 등 전투 시스템 확장
     - 보스 러시 / 몬스터 웨이브 / 월드 보스 / 시간제 사냥터 등 전투 룰 확장
     - 동료 캐릭터 전투 시스템
 
-- 아웃게임 콘텐츠 개발
-    - 장비 강화 / 아이템 컬렉션 / 아바타 합성 / 제작 등 리니지라이크 콘텐츠
+- 콘텐츠 개발
+    - 장비 강화 / 아이템 컬렉션 / 아바타 합성 / 제작 등 RPG 게임 콘텐츠
     - 인벤토리 / 소환 / 다이얼로그 / 보드게임 / 코스튬 / 이벤트 패스 / 상품 등
 
 - 뒤끝 연동
     - 서버(그룹) 구분 / 채팅 / 우편 / 랭킹 / 월드 보스
 
 - 라이브 서비스
-    - 핫픽스 솔루션 InjectFix
-    - 확장성 및 개발 용이성을 위한 시스템/데이터 구조 개선
+    - 핫픽스 솔루션 InjectFix 연동
+    - 콘텐츠 확장 및 개발 용이성을 위한 시스템/데이터 구조 개선
  
 - 최적화
     - Profiler 활용한 최적화
@@ -56,7 +56,7 @@
     - Generic Infinite Scroll, 개선된 성능의 Layout Group 등 UI 최적화
 
 - 에디터 툴 개발
-    - 맵 툴 / 테이블 기반 데이터 스크립트 자동 생성 / 실시간 대미지 및 스탯 확인
+    - 맵 배치 툴 / 테이블 기반 데이터 스크립트 자동 생성 / 실시간 전투 정보 디버깅
 
 - Shader Graph
     - Silhouette / Planar Reflection / Skill Indicator
@@ -67,8 +67,9 @@
 - 프로토타이핑
     - 10명 편대 전투 (<세븐나이츠키우기> 레퍼런스)
 
-- 아웃게임 콘텐츠 개발
-    - 장비 소환 / 수집형 캐릭터 성장 / 퀘스트 / 이벤트 패스 / 상품 등
+- 콘텐츠 개발
+    - 캐릭터 강화 / 덱 강화 / 장비 강화 등 성장 콘텐츠
+    - 캐릭터 편성 / 장비 소환 / 퀘스트 / 이벤트 패스 / 상품 등
 
 - PlayFab 연동
     - 서버 구분 / 우편 / 랭킹 / 유저 데이터 저장
@@ -85,6 +86,9 @@
 
 - 콘텐츠 개발
     - 미니게임 / 상품 등
+ 
+- 에디터 툴 개발
+    - 프리팹 일괄 수정 / 다수 패키지 순차적 임포트 툴
 
 #### 저스트 슈팅 [🌐](https://www.youtube.com/watch?v=GGDkXMMiVxI)
 
@@ -99,7 +103,7 @@
     - 영구적 강화
 
 - 스테이지 에디터 툴 개발
-- GPGS, Apple Game Center 리더보드 개발
+- GPGS, Apple Game Center 리더보드 연동
 
 #### 햄스터 쿠키 공장 [🌐](https://play.google.com/store/apps/details?id=com.maf.idle.hamster.factory.manager.cookie.tycoon)
 
