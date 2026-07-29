@@ -12,11 +12,12 @@
 **기타**
 - Photoshop / After Effects / 3ds Max
 
-## 📁 포트폴리오
+## 📁 개인 프로젝트
 
 | 프로젝트                                            | 설명                                                             | 엔진    |
 |-------------------------------------------------|----------------------------------------------------------------|-------|
 | [ProjectVP](https://github.com/expx2/ProjectVP) | C# Recast와 동적 메쉬 생성을 통한 게임 <발로란트>의 '독사의 구덩이' 스킬 모작 | Unity |
+| [URP Spell Indicator](https://github.com/expx2/URPSpellIndicator) | Shader Graph를 이용한 스킬 범위 인디케이터 | Unity |
 
 ## 🎮 참여 프로젝트
 
