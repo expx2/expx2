@@ -24,13 +24,14 @@
 
 #### 미공개 프로젝트
 `Unity 6.3` `UniTask` `ZLinq` `ZString` `uPools` `Spine`
-
+<!--
 - 전투 콘텐츠 개발
     - Data-Driven 스킬 시스템
     - 수학 기반 충돌 판정 (원, 부채꼴, 도넛, OBB)
     - <Source, Value> 형태의 우선순위 상태 제어 시스템
 - WFC 알고리즘 맵 자동 생성 시스템 및 자동화 툴
 - 좌표 기반 월드 스트리밍
+-->
 
 #### 애쉬앤베일 [🌐](https://play.google.com/store/apps/details?id=studio.gameberry.anv&pcampaignid=web_share)
 `Unity 2022` `뒤끝` `UniRx` `A* Pathfinding Project` `DOTween` `Spine` `InjectFix`
